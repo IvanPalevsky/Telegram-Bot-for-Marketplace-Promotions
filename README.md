@@ -94,11 +94,11 @@ def check_subscription(chat_id):
 
 📌 Uses InlineKeyboardMarkup for clean UX.
 
-🛡️ License
+## 🛡️ License
 
 MIT License — free to use, modify, and deploy.
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Created by Ivan
 
 Inst: @chll_killer
