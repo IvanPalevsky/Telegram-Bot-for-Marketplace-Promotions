@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+requests
+sqlite3
+logging
+sys
+threading
+schedule
+time
