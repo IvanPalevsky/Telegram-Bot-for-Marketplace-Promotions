@@ -23,10 +23,10 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # 🔑 Получение токена бота из переменных окружения
-BOT_TOKEN = '7006887985:AAEbm-QHxEHAVOqadDu0ahESBd0LttFhEKc'
+BOT_TOKEN = ''
 
 # 💳 Токен для Telegram Payments (получите его у @BotFather)
-PAYMENT_TOKEN = '381764678:TEST:96352'
+PAYMENT_TOKEN = ''
 
 # 📢 ID канала, на который нужно подписаться
 CHANNEL_ID = '@your_channel_username'
