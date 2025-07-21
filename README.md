@@ -89,10 +89,13 @@ def check_subscription(chat_id):
     ...
 ```
 📌 Returns True if user is valid and active.
+
 📌 Sends required instructions if the user is not eligible.
+
 📌 Uses InlineKeyboardMarkup for clean UX.
 
 🛡️ License
+
 MIT License — free to use, modify, and deploy.
 
 🙋‍♂️ Author
